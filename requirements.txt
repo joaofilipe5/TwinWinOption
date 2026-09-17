@@ -1,0 +1,4 @@
+# Direct dependencies inferred from original imports; original version lock unavailable.
+yfinance
+numpy
+pandas
